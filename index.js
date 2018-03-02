@@ -4,15 +4,6 @@ function happyHolidays(){
 }
 
 function happyHolidaysTo(name){
-	if(name){
-		return "Happy holidays, " + name + "!";
-	} else {
-		return "Happy holidays";
-	}
+  return "Happy holidays, ${name}!"
 }
-
-
-function happyHolidaysTo(holiday, name){
-  return "Happy " + holiday + name + "!";
-
-}
+	

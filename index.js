@@ -14,9 +14,8 @@ function happyHolidaysTo(name){
 
 function happyHolidaysTo(holiday, name){
 	if(holiday, name){
-		return "Happy holidays, " + holiday + name + "!";
-	} else {
-		return "Happy holidays!";
+		return "Happy " + holiday + name + "!";
+	} 
 
 }
 

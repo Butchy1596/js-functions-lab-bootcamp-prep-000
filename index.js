@@ -17,7 +17,7 @@ function happyHolidaysTo(holiday, name){
 		return "Happy holidays, " + holiday + name + "!";
 	} else {
 		return "Happy holidays!";
-	  
+
 }
 
 happyHolidayTo(christmas, Dominick);

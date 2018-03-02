@@ -13,13 +13,11 @@ function happyHolidaysTo(name){
 
 
 function happyHolidaysTo(holiday, name){
-	if(holiday){
-		return "Happy holidays, "+ holiday + "!";
-	} else if (name) {
-		return "Happy holidays, " + name + "!";
+	if(holiday, name){
+		return "Happy holidays, " + holiday + name + "!";
 	} else {
-	  return "Happy holidays, " + holiday + name + "!";
-	}
+		return "Happy holidays!";
+	  
 }
 
 happyHolidayTo(christmas, Dominick);

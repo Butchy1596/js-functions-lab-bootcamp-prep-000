@@ -18,5 +18,3 @@ function happyHolidaysTo(holiday, name){
 		return "Happy holidays";
 	}
 }
-
-

@@ -16,5 +16,3 @@ function happyHolidaysTo(holiday, name){
   return "Happy " + holiday + name + "!";
 
 }
-
-happyHolidayTo(christmas, Dominick);

@@ -21,3 +21,5 @@ function happyHolidaysTo(holiday, name){
 	  return "Happy holidays, " + holiday + name + "!";
 	}
 }
+
+happyHolidayTo(christmas, Dominick);

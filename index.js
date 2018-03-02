@@ -3,7 +3,7 @@ function happyHolidays(){
   return "Happy holidays!";
 }
 
-/*function happyHolidaysTo(name){
+function happyHolidaysTo(name){
 	if(name){
 		return "Happy holidays, " + name + "!";
 	} else {
@@ -11,7 +11,7 @@ function happyHolidays(){
 	}
 }
 
-*/
+
 function happyHolidaysTo(holiday, name){
 	if(holiday, name){
 		return "Happy holidays, " + holiday + name + "!";

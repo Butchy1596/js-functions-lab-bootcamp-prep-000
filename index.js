@@ -1,9 +1,12 @@
 // write your code below!
 function happyHolidays(){
-  return ("Happy holidays!");
+  return "Happy holidays!";
 }
 
-var name = "Dominick"
 function happyHolidaysTo(name){
-  return ("Happy holidays," + name "!");
+	if(name){
+		return "Happy holidays, " + name + "!";
+	} else {
+		return "Happy holidays";
+	}
 }

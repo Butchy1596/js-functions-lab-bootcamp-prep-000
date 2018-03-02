@@ -11,6 +11,9 @@ function happyHolidaysTo(name){
 	}
 }
 
+var holiday = "christmas"
+var name = "Dominick"
+
 function happyHolidaysTo(holiday, name){
 	if(holiday + name){
 		return "Happy holidays, "+ holiday + name + "!";
@@ -18,3 +21,5 @@ function happyHolidaysTo(holiday, name){
 		return "Happy holidays";
 	}
 }
+
+
